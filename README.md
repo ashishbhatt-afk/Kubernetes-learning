@@ -1,6 +1,7 @@
 # Kubernetes-learning
 random k8 topic notes
-<img width="1264" height="541" alt="image" src="https://github.com/user-attachments/assets/a55130e9-f64b-4cbc-a382-8a76434903e9" />
+<img width="1264" height="541" alt="image" src="https://github.com/user-attachments/assets/74d48624-7b61-4f28-988d-c6296ad7de63" />
+
 
 
 
